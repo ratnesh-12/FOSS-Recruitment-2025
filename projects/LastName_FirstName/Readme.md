@@ -39,15 +39,11 @@ This project enables beginners to create colorful pixel art in the terminal usin
 ## Project Structure
 
 projects/kumar_ratnesh/
-├── README.md                 # Project overview, problem, features, run instructions
-
-├── requirements.txt          # Lists no external dependencies (uses built-in Python modules)
-
-├── src/                     # Source code directory
-
-│   └── pixel_art.py         # Main Python script for the pixel art generator
-
-└── sample_output.txt        # Demo output of the heart pattern
+├── README.md              
+├── requirements.txt    
+├── src/                     
+│   └── pixel_art.py         
+└── sample_output.txt           
 ---
 
 ## Demo Screenshot / Output
