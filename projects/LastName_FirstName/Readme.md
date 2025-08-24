@@ -38,7 +38,7 @@ This project enables beginners to create colorful pixel art in the terminal usin
 
 ## Project Structure
 
-projects/kumar_ratnesh/
+projects/kumar_ratnesh/<br>
 ├── README.md              
 ├── requirements.txt    
 ├── src/                     
