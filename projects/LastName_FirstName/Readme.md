@@ -40,21 +40,25 @@ This project enables beginners to create colorful pixel art in the terminal usin
 
 projects/kumar_ratnesh/
 ├── README.md                 # Project overview, problem, features, run instructions
+
 ├── requirements.txt          # Lists no external dependencies (uses built-in Python modules)
+
 ├── src/                     # Source code directory
+
 │   └── pixel_art.py         # Main Python script for the pixel art generator
+
 └── sample_output.txt        # Demo output of the heart pattern
 ---
 
 ## Demo Screenshot / Output
-Console Pixel Art Generator
-Use: r=red, b=blue, g=green, y=yellow, w=white, .=empty
-Enter 'sample' for a predefined heart pattern.
-Enter grid size (e.g., 5 for 5x5, 0 to exit): 3
-Enter 3 rows of 3 chars (r,b,g,y,w,.)
-Row 1: .r.
-Row 2: rrr
-Row 3: .r.
+Console Pixel Art Generator<br>
+Use: r=red, b=blue, g=green, y=yellow, w=white, .=empty<br>
+Enter 'sample' for a predefined heart pattern.<br>
+Enter grid size (e.g., 5 for 5x5, 0 to exit): 3<br>
+Enter 3 rows of 3 chars (r,b,g,y,w,.)<br>
+Row 1: .r.<br>
+Row 2: rrr<br>
+Row 3: .r.<br>
 
 <img width="174" height="128" alt="image" src="https://github.com/user-attachments/assets/4c81b167-238a-4af6-89fd-da28ef86580e" />
     
