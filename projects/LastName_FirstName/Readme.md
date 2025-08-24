@@ -42,7 +42,7 @@ projects/kumar_ratnesh/
 ├── README.md              
 ├── requirements.txt    
 ├── src/                     
-│   └── pixel_art.py         
+ │   └── pixel_art.py         
 └── sample_output.txt           
 ---
 
