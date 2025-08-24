@@ -38,12 +38,13 @@ This project enables beginners to create colorful pixel art in the terminal usin
 
 ## Project Structure
 
-projects/kumar_ratnesh/<br>
+projects/kumar_ratnesh/
+
 ├── README.md              
-├── requirements.txt    
-├── src/                     
- │   └── pixel_art.py         
-└── sample_output.txt           
+├── requirements.txt       
+├── src/
+│   └── pixel_art.py      
+└── sample_output.txt          
 ---
 
 ## Demo Screenshot / Output
