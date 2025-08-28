@@ -45,7 +45,7 @@ projects/kumar_ratnesh/
 | README.md          | Project documentation                |
 | requirements.txt   | List of required dependencies        |
 | src/               | Source code folder                   |
-| └── pixel_art.py   | Main script to run the project       |
+| pixel_art.py       | Main script to run the project       |
 | sample_output.txt  | Example output from the program      |
 
 ---
